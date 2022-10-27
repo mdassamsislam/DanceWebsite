@@ -1,0 +1,11 @@
+{
+  "name": "sams",
+  "version": "1.0.0",
+  "description": "This is a website for a popular dance academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MD AS SAMS ISLAM",
+  "license": "ISC"
+}
